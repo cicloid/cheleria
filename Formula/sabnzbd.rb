@@ -1,9 +1,9 @@
 require 'formula'
 
 class Sabnzbd < Formula
-  url 'https://github.com/sabnzbd/sabnzbd/archive/0.7.9.tar.gz'
+  url 'https://github.com/sabnzbd/sabnzbd/archive/0.7.14.tar.gz'
   homepage 'http://sabnzbd.org/'
-  md5 'dd762ccdf07472636cf612f9c46abd45'
+  md5 'ab5a308d8c23b23cd0a4cd2ea5a73bb9'
 
   depends_on 'par2'
   depends_on 'unrar'
